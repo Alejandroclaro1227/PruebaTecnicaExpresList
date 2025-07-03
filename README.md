@@ -101,7 +101,7 @@ git --version     # Cualquier versión reciente
 #### 1. **Clonar el Repositorio**
 ```bash
 # Opción 1: HTTPS
-git clone https://github.com/tu-usuario/todo-app.git
+git clone https://github.com/Alejandroclaro1227/PruebaTecnicaExpresList.git
 cd todo-app
 
 # Opción 2: SSH (si tienes configurado)
