@@ -105,7 +105,7 @@ git clone https://github.com/Alejandroclaro1227/PruebaTecnicaExpresList.git
 cd todo-app
 
 # Opción 2: SSH (si tienes configurado)
-git clone git@github.com:tu-usuario/todo-app.git
+git clone git@github.com:Alejandroclaro1227/PruebaTecnicaExpresList.git
 cd todo-app
 
 # Opción 3: Descargar ZIP desde GitHub
